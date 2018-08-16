@@ -195,6 +195,6 @@ public class PetHotel
     private void clearRooms()
     {
         currentOccupants.clear();
-        System.out.println("The hotel is now closed!");
+        System.out.println("The hotel is now closed! All Rooms are Empty!");
     }
 }
